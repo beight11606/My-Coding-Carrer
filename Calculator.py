@@ -1,0 +1,12 @@
+from math import *
+Number1= input("Enter a number")
+Number2= input("Enter another number")
+print("Results for the following operations:")
+print("Addition")
+print(float(Number1) + float(Number2))
+print("Subtraction")
+print(float(Number1) - float(Number2))
+print("Multiplication")
+print(float(Number1) * float(Number2))
+print("Division")
+print(float(Number1) / float(Number2))
